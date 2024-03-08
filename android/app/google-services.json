@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387455487617",
+    "project_id": "movies-9edd3",
+    "storage_bucket": "movies-9edd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387455487617:android:3d26a12700c14930eb8780",
+        "android_client_info": {
+          "package_name": "com.example.app_fox_movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-i0f2IvXt-E14lOhVs64QIn7JkyyuKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
