@@ -63,6 +63,7 @@ class ConnectionStatusSingleton {
                   pendingFavourite['id'].toString(),
                 ).delete();
           }
+          await storage.truncatePending();
         }
       } else {
         hasConnection = false;
